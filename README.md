@@ -1,7 +1,17 @@
-## Hi there 👋
+### Hi there 👋, I'm Anamul Haque
+#### Web Developer
+![Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/436118900_884485590105835_1556906525328281592_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kWMA5roRu9AQ7kNvgFl7ciN&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=AwB-fZbdFCfgtK0MUHNKrSv&oh=00_AYAg9GNh4zm1mLPHsDNET-SmGQmO5mcOatBcUs1hy8xdNQ&oe=6732BC98)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / JS / HTML / CSS / PYTHON
+
+- 🔭 I’m currently working on this page. 
 
 
-**Anamul-Deoun/Anamul-Deoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
