@@ -12,9 +12,14 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
+<!-- <strong>👨‍💻 I'm a MERN Stack Developer</strong> -->
+
 ✨ Passionate Frontend Developer from Bangladesh  
+
 💻 Focused on clean UI & responsive design  
+
 🚀 Currently learning React & building real-world projects  
+
 🎯 Goal: Become a Full MERN Stack Developer  
 
 ---
@@ -40,12 +45,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anamul-Deoun&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Anamul-Deoun&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anamul-Deoun&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -59,9 +64,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/YOUR_ID"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.facebook.com/md.anamul.haque.05"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://linkedin.com/in/anamul-haque05"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:anamulby2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
