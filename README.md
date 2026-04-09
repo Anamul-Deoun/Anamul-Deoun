@@ -28,17 +28,27 @@
 
 ### 🧠 Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
 
 ### 🎨 Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### 🔥 Future Stack
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### 🛠️ Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
