@@ -64,9 +64,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/md.anamul.haque.05"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://linkedin.com/in/anamul-haque05"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:anamulby2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <!-- <a href="https://www.facebook.com/md.anamul.haque.05"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a> -->
+  <a href="https://linkedin.com/in/anamul-haque05"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:anamulby2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://discord.gg/anamul-haque05"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
@@ -79,13 +80,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-</p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+❤️;Let's+build+something+great+🚀;Keep+Coding+🔥" />
